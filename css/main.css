@@ -52,7 +52,7 @@ article a {
 
 .post_listed .post_time {
   color: #bcbcbc;
-  margin-left: 5px;
+  margin-right: 10px;
   display: inline-block;
   font-size: 1.1rem;
 }
@@ -262,7 +262,7 @@ footer {
 
 footer .footer_msg {
   font-size: 1.1rem;
-  color: #eee;
+  color: #bcbcbc;
   text-align: center;
 }
 
@@ -286,6 +286,18 @@ footer .footer_rss {
   width: 100%;
   margin: 25px auto;
   padding: 0;
+}
+
+.page-prev,
+.page-next {
+  color: #eee;
+  background-color: none;
+}
+
+.page-prev:hover,
+.page-next:hover {
+  color: #0a0a0a;
+  background-color: #eee;
 }
 
 .page-prev {
