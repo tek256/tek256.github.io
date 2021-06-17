@@ -160,7 +160,6 @@ nav a:hover {
 
 .title_wrapper .meta:hover {
   color: #fff;
-  text-decoration: underline;
 }
 
 /* --- Post Content --- */
@@ -204,79 +203,17 @@ nav a:hover {
   text-transform: uppercase;
 }
 
-/* --- Post Footer --- */
-.post_footer hr {
-  color: #222;
-  border-top: 1px solid #222;
-  margin-bottom: 25px;
-}
-
-.post_footer {
-  width: 90%;
-  min-height: 75px;
-  display: block;
-  margin: 25px auto 45px auto;
-  padding: 25px auto auto 10px;
-}
-
-.post_footer .footer_icon {
-  width: auto;
-  height: 100px;
-  float: left;
-  display: inline-block;
-  border-radius: 6px;
-  margin: auto 25px auto 10px;
-}
-
-.post_footer .footer_author {
-  width: auto;
-  font-weight: bold;
-  font-size: 1.4rem;
-  text-align: left;
-  margin-top: 10px;
-}
-
-.post_footer .footer_desc {
-  width: auto;
-  font-size: 1.25rem;
-  text-align: left;
-  margin: 0;
-  color: #999;
-}
-
-.post_footer .footer_links {
-  margin-left: 135px;
-}
-
-.post_footer .footer_links a {
-  font-size: 1.1rem;
-  margin: 0 7px 0 0;
-}
-
 /* --- Page Footer --- */
 
 footer {
   width: 100%;
-  margin-top: 25px;
+  margin-top: 35px;
 }
 
 footer .footer_msg {
   font-size: 1.1rem;
-  color: #bcbcbc;
+  color: #8a8a8a;
   text-align: center;
-}
-
-footer .footer_cpy {
-  font-size: 0.9rem;
-  color: #444;
-  text-align: center;
-}
-
-footer .footer_rss {
-  font-size: 0.9rem;
-  color: #666;
-  text-align: center;
-  display: block;
 }
 
 /* --- Pagination --- */
