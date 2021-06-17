@@ -288,10 +288,10 @@ footer .footer_rss {
   padding: 0;
 }
 
-.page-prev,
-.page-next {
+.page-link {
+  font-size: 1.1rem;
+  display: inline-block;
   color: #eee;
-  background-color: none;
 }
 
 .page-link:hover {
@@ -301,14 +301,10 @@ footer .footer_rss {
 
 .page-prev {
   float: left;
-  display: inline-block;
-  font-size: 1.1rem;
 }
 
 .page-next {
   float: right;
-  display: inline-block;
-  font-size: 1.1rem;
 }
 
 /* --- Table styling --- */
