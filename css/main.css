@@ -113,7 +113,7 @@ nav#main {
 }
 
 nav a {
-  color: #6e6e6e;
+  color: #eee;
   text-decoration: none;
   padding-left: 6px;
   padding-right: 6px;
@@ -121,12 +121,14 @@ nav a {
 }
 
 nav a:visited {
-  color: #6e6e6e; 
+  color: #eee; 
   text-decoration: none;
 }
 
 nav a:hover {
   text-decoration: none;
+  color: #0a0a0a;
+  background-color: #eee;
 }
 
 /* --- Post Titling --- */
