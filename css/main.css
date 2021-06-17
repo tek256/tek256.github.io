@@ -151,11 +151,9 @@ nav a:hover {
   font-weight: normal;
 }
 
-.title_wrapper .meta {
+.title_wrapper .single_time {
   font-size: 1rem;
-  font-weight: normal;
-  text-align: center;
-  color: #999;
+  text-decoration: none;
 }
 
 .title_wrapper .meta:hover {
