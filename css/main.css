@@ -165,12 +165,12 @@ nav a:hover {
 
 /* --- Post Content --- */
 
-.body {
+.content {
   font-family: "Open Sans", sans-serif;
   font-size: 1.3rem;
 }
 
-.body p {
+.content p {
   margin-bottom: 30px;
 }
 
