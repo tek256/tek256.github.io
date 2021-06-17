@@ -294,8 +294,7 @@ footer .footer_rss {
   background-color: none;
 }
 
-.page-prev:hover,
-.page-next:hover {
+.page-link:hover {
   color: #0a0a0a;
   background-color: #eee;
 }
