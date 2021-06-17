@@ -151,7 +151,7 @@ nav a:hover {
   font-weight: normal;
 }
 
-.title_wrapper .single_time {
+.single_time {
   font-size: 1rem;
   text-decoration: none;
   text-align: center;
@@ -164,6 +164,15 @@ nav a:hover {
 }
 
 /* --- Post Content --- */
+
+.body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.3rem;
+}
+
+.body p {
+  margin-bottom: 30px;
+}
 
 /* --- Post Tags --- */
 .post-tags {
