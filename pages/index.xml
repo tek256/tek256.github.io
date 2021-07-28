@@ -33,7 +33,7 @@
       <guid>//tek256.com/portfolio/</guid>
       <description>For access to most of these projects, you can go thru the descriptions, or check my GitHub for the relevant repositories!
 Resume / LinkedIn
-Astera Astera is one of my primary projects currently. It&amp;rsquo;s a cross platform game library written in C99. The technologies it uses are: C, CMake, GLFW, OpenGL, OpenAL, nanovg, stb image &amp;amp; vorbis, and GLAD. Everything else in the project is self written! It currently builds and runs on Windows, Mac, and Linux!</description>
+Astera Astera is one of my primary projects currently. It&amp;rsquo;s a cross platform game library written in C99. The technologies it uses are: C, CMake, GLFW, OpenGL, OpenAL, nanovg, stb image &amp;amp; vorbis, and GLAD. Everything else in the project is self written! It currently builds and runs on Windows, Mac, and Linux with planned support for Web/HTML5!</description>
     </item>
     
     <item>
