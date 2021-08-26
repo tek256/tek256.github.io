@@ -22,7 +22,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//tek256.com/faq/</guid>
-      <description>Question Index:  Where can I find you across the web?   Who are you?   What languages do you know?   What keyboard do you use?   What languages do you use for Game Development?   Why C?   How did you learn to write code?   What do you recommend to learn C?   What do you think of Rust?   Why are you building a game engine for your game?</description>
+      <description>Question Index: Where can I find you across the web?Who are you?What languages do you know?What keyboard do you use?What languages do you use for Game Development?Why C?How did you learn to write code?What do you recommend to learn C?What do you think of Rust?Why are you building a game engine for your game?</description>
     </item>
     
     <item>
@@ -31,9 +31,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//tek256.com/portfolio/</guid>
-      <description>For access to most of these projects, you can go thru the descriptions, or check my GitHub for the relevant repositories!
-Resume / LinkedIn
-Astera Astera is one of my primary projects currently. It&amp;rsquo;s a cross platform game library written in C99. The technologies it uses are: C, CMake, GLFW, OpenGL, OpenAL, nanovg, stb image &amp;amp; vorbis, and GLAD. Everything else in the project is self written! It currently builds and runs on Windows, Mac, and Linux with planned support for Web/HTML5!</description>
+      <description>Astera Astera is one of my primary projects currently. It&amp;rsquo;s a cross platform game library written in C99. The technologies it uses are: C, CMake, GLFW, OpenGL, OpenAL, nanovg, stb image &amp;amp; vorbis, and GLAD. Everything else in the project is self written! It currently builds and runs on Windows, Mac, and Linux with planned support for Web/HTML5!
+Dungeon Example This example runs most all of the different components in Astera to give a real world example of a game running with it.</description>
     </item>
     
     <item>
@@ -42,7 +41,7 @@ Astera Astera is one of my primary projects currently. It&amp;rsquo;s a cross pl
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//tek256.com/resume/</guid>
-      <description>.resume_wrapper { min-width 640px; width: 100%; display: inline-block; padding: 0; margin: 0; } .resume_left { width: 75%; margin-right: 10%; padding: 0; float: left; display: inline-block; } .resume_right { width: 15%; margin-left: 0; padding: 0; float: right; display: inline-block; } .resume_job { font-size: 1.3rem; display: block; margin-top: 0; margin-bottom: 10px !important; padding: 0; } .resume_date { font-size: 1.1rem; } .resume_jobdesc { font-size: 1.1rem; margin-top: 0; margin-bottom: 15px; } .resume_section { font-size: 1.</description>
+      <description>.resume_wrapper {min-width 640px;width: 100%;display: inline-block;padding: 0;margin: 0;}.resume_left {width: 75%;margin-right: 10%;padding: 0;float: left;display: inline-block;} .resume_right {width: 15%;margin-left: 0;padding: 0;float: right;display: inline-block;}.resume_job {font-size: 1.3rem;display: block;margin-top: 0;margin-bottom: 10px !important;padding: 0;}.resume_date {font-size: 1.1rem;}.resume_jobdesc {font-size: 1.1rem;margin-top: 0;margin-bottom: 15px;}.resume_section {font-size: 1.</description>
     </item>
     
     <item>
