@@ -44,18 +44,5 @@ Dungeon Example This example runs most all of the different components in Astera
       <description>.resume_wrapper {min-width 640px;width: 100%;display: inline-block;padding: 0;margin: 0;}.resume_left {width: 75%;margin-right: 10%;padding: 0;float: left;display: inline-block;} .resume_right {width: 15%;margin-left: 0;padding: 0;float: right;display: inline-block;}.resume_job {font-size: 1.3rem;display: block;margin-top: 0;margin-bottom: 10px !important;padding: 0;}.resume_date {font-size: 1.1rem;}.resume_jobdesc {font-size: 1.1rem;margin-top: 0;margin-bottom: 15px;}.resume_section {font-size: 1.</description>
     </item>
     
-    <item>
-      <title>Services</title>
-      <link>//tek256.com/services/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//tek256.com/services/</guid>
-      <description>You can find my resume here!
-Hello! I&amp;rsquo;m Devon, I work primarily focusing on creating high quality &amp;amp; high performance software.
-Usually I work on (but am not limited to) the following kinds of projects:
- Games &amp;amp; Game Engines General &amp;amp; Enterprise Software Small-medium sized websites for small businesses &amp;amp; friends  Here are some of the programming languages I’m most comfortable with:
- C/C++ Java C# / .NET HTML / CSS Python SQL (MSSQL &amp;amp; MySQL) BASH / Unix Shell  As well as some libraries/technologies I can use:</description>
-    </item>
-    
   </channel>
 </rss>
